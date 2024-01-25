@@ -1,8 +1,8 @@
 {
     "name": "HasFRP0.19.1",
-    "version": "0.19.1",
-    "slug": "0.19.1,
-    "description": "0.19.1",
+    "version": "0.19.1version",
+    "slug": "slug",
+    "description": "0.19.1description",
     "startup": "application",
     "boot": "auto",
     "host_network": true,
